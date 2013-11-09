@@ -20,3 +20,5 @@ The decryption undoes this process.
 (There are two `reverse()` methods in `CryptTools.java` that arent actually being used right now in the encryption/decryption process.)
 
 I have included `testFile.dat` for testing purposes.
+
+This project was in collaboration with Matthew Baker.
