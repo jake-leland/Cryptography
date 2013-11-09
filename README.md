@@ -17,4 +17,6 @@ It isn't just a simple shift, however. The location to where it is shifted depen
 
 The decryption undoes this process.
 
-There are two reverse() methods in the CryptTools that arent actually being used right now in the encryption/decryption process.
+(There are two reverse() methods in the CryptTools that arent actually being used right now in the encryption/decryption process.)
+
+I have included testFile.dat for testing purposes.
